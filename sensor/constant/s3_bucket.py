@@ -1,1 +1,1 @@
-TRAINING_BUCKET_NAME="sensor"
+TRAINING_BUCKET_NAME="project-sensor-pipeline"
