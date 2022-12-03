@@ -1,2 +1,1 @@
-bucketname=project-sensor-pipeline
-ecr registry key= 831609869012.dkr.ecr.ap-south-1.amazonaws.com/sensor
+
